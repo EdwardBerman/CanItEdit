@@ -35,11 +35,12 @@ git clone --recurse-submodules https://github.com/nuprl/CanItEdit
 If you use this code or the CanItEdit benchmark, please cite our paper:
 
 ```
-@inproceedings{cassano2023edit,
+@misc{cassano2024edit,
       title={Can It Edit? Evaluating the Ability of Large Language Models to Follow Code Editing Instructions}, 
-      author={Federico Cassano and Luisa Li and Akul Sethi and Noah Shinn and Abby Brennan-Jones and Anton Lozhkov and Carolyn Jane Anderson and Arjun Guha},
-      booktitle={The First International Workshop on Large Language Model for Code},
+      author={Federico Cassano and Luisa Li and Akul Sethi and Noah Shinn and Abby Brennan-Jones and Jacob Ginesin and Edward Berman and George Chakhnashvili and Anton Lozhkov and Carolyn Jane Anderson and Arjun Guha},
       year={2024},
-      url={https://arxiv.org/abs/2312.12450}
+      eprint={2312.12450},
+      archivePrefix={arXiv},
+      primaryClass={cs.SE}
 }
 ```
